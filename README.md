@@ -1,0 +1,1 @@
+This project is called odin-recipes and it's to help me solidify my HTML knowledge i have learnt in the HTML curriculum 
